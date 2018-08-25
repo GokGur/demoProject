@@ -12,9 +12,17 @@ namespace demoProjectForGitHub
 {
     public partial class Form1 : Form
     {
+        int buttonClickNumber = 0;
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            buttonClickNumber++;
+            label2.Text = buttonClickNumber.ToString();
         }
     }
 }

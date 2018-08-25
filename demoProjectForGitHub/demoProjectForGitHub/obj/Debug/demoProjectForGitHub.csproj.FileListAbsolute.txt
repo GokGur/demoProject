@@ -1,0 +1,10 @@
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\bin\Debug\demoProjectForGitHub.exe.config
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\bin\Debug\demoProjectForGitHub.exe
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\bin\Debug\demoProjectForGitHub.pdb
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.csprojAssemblyReference.cache
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.Form1.resources
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.Properties.Resources.resources
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.csproj.GenerateResource.cache
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.exe
+C:\Users\gokha\Desktop\GitHub\demoProject\demoProjectForGitHub\demoProjectForGitHub\obj\Debug\demoProjectForGitHub.pdb
